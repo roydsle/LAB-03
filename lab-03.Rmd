@@ -1,6 +1,8 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Gabriel, Zazzie, User3, User4, User5 and User6 - Team Name"
+
+author: "Nadav, Joel, Jin, Lucy, Gabriel, and Zazzie - team na.rm"
+
 date: "`r Sys.Date()`"
 output: html_document
 ---
