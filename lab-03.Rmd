@@ -62,6 +62,7 @@ We have no labels for the Axes other than Axis titles, and this means we have no
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
+Because the colours are opaque, it makes certain parts of the graph difficult to read, e.g. the end and the beginning. But it is presented nicely; the colours are clear, the scale is consistent. The data speaks for itself.
 
 # Exercises
 
