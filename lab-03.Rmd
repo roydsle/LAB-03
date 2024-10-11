@@ -37,7 +37,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 
 It is difficult to work out what is actually indicating the population density and total area.
 The segments vary in arc length and size, and it is unclear what this means.
-There are no values and no scales.
+There are no values and no scales - we are told that the chart shows a comparison between population density and total area, but it is very difficult to interpret the actual information. Additionally, the segments are not percentages of a whole, so it is difficult to quantify the values.
 Not visualling appealing or engaging
 Unclear how variables relate to each other, and are presented in the pie chart .
 
