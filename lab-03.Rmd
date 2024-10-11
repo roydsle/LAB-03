@@ -63,6 +63,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 
+
 # Exercises
 
 ```{r load-data-staff, message=FALSE, eval=TRUE}
@@ -79,7 +80,7 @@ Is the format `staff` data *wide* or *long*?
 Wide
 
 How many observations are there in the data set?
-5
+55
 
 
 
