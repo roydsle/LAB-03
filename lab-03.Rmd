@@ -25,7 +25,9 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 
 _Write your comments about image 1 below_
 
-
+Bars are different widths and do not represent the scale of the data at all.
+The unit changes between bars and so makes reading the graph very difficult.
+The Colours on the graph are not aesthetically pleasing.
 
 
 
