@@ -116,10 +116,13 @@ ggplot(data = staff_long,
 ## Exercise 4
 
 ```{r bad-line-plot}
-# Write your code for Exercise 4 here
+ggplot(data = staff_long,
+       mapping = aes(x = year, 
+                     y = percent, 
+                     colour = faculty_type)) +
+  geom_line()
 
-
-
+# Does not work as the data for the years is character not numeric and so it cannot create a line.
 ```
 
 ## Exercise 5
